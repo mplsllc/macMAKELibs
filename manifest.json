@@ -1,0 +1,50 @@
+{
+  "collection": "macMAKE v0.1.0 library inputs",
+  "macmake_release": "v0.1.0",
+  "release_archive_sha256": "3c9da84e53022d16a07208d0591a9964b8399dbe043b3628e227373a6aa6e980",
+  "product_source_revision": "922df8956fb570cdd0a79878904d0bc141141b43",
+  "files": [
+    {
+      "path": "msl/MSL_C_Carbon.Lib",
+      "bytes": 219086,
+      "sha256": "39c0506b0c2c55942680838e9fe874fbf303c2c42e21dda6fc4f43e189280588",
+      "origin": "CodeWarrior 8 installation: MSL/MSL_C/MSL_MacOS/Lib/PPC/MSL_C_Carbon.Lib"
+    },
+    {
+      "path": "msl/MSL_Runtime_PPC_D.Lib",
+      "bytes": 98162,
+      "sha256": "dd53d1a0ee9fa744d2179cde8ad77e25e0f43772f74a5f6783b59b2ad8c9dc1a",
+      "origin": "CodeWarrior 8 installation: MacOS Support/Libraries/Runtime/Libs/MSL_Runtime_PPC_D.Lib"
+    },
+    {
+      "path": "msl/MSL_Extras_Carbon.Lib",
+      "bytes": 42158,
+      "sha256": "a887ba9f7e0201d47278196b1032707050d7a92278848a5b20704f34b63e0e78",
+      "origin": "CodeWarrior 8 installation: MSL/MSL_Extras/MSL_MacOS/Lib/PPC/MSL_Extras_Carbon.Lib"
+    },
+    {
+      "path": "system-imports/CarbonLib",
+      "bytes": 252920,
+      "sha256": "5606a921cc9c870b1981fc1e68fee78784fd8b05c6c37fd0a4dc14009784c9c7",
+      "origin": "CodeWarrior 8 installation: MacOS Support/Universal/Libraries/StubLibraries/CarbonLib"
+    },
+    {
+      "path": "system-imports/MathLib",
+      "bytes": 3248,
+      "sha256": "62ea2482557cc23d1a087335e8a1ef07c1b2c27f61c31b141f9d5737d33b22c4",
+      "origin": "CodeWarrior 8 installation: MacOS Support/Universal/Libraries/StubLibraries/MathLib"
+    },
+    {
+      "path": "gnu-runtime/libgcc.a",
+      "bytes": 240582,
+      "sha256": "9204ff56371500f9aa92401623ec2a2877918396498b87ad40943980458928aa",
+      "origin": "macMAKE v0.1.0 release archive member: macmake-v0.1.0/toolchain/lib/gcc/powerpc-unknown-macmake/12.2.0/libgcc.a"
+    },
+    {
+      "path": "gnu-runtime/crtdbase.o",
+      "bytes": 307,
+      "sha256": "01ab3b224d6906fa3f6a1fb9dd61d062a9685b6102d5ca02b9a3b69f38b5be4f",
+      "origin": "macMAKE v0.1.0 release archive member: macmake-v0.1.0/toolchain/lib/gcc/powerpc-unknown-macmake/12.2.0/crtdbase.o"
+    }
+  ]
+}
