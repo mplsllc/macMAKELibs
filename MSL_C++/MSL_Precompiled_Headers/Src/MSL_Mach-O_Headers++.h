@@ -1,0 +1,1 @@
+/* Metrowerks Standard Library * Copyright © 1995-2002 Metrowerks Corporation.  All rights reserved. * *  $Date: 2002/02/04 21:29:13 $  *  $Revision: 1.2 $  */#define _MSL_USING_MW_C_HEADERS 1#include "MSLHeaders++.h"/* Change record: * 011102 JWW New file for using C++ with MSL C headers for Mach-O */
