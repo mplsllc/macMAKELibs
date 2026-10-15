@@ -1,0 +1,1 @@
+/* Metrowerks Standard Library * Copyright © 1995-2002 Metrowerks Corporation.  All rights reserved. * * $Date: 2002/02/04 21:30:44 $ * $Revision: 1.2 $ */#undef  _MSL_INLINE#define _MSL_USE_INLINE 1#define _MSL_INLINE __declspec(weak)		#include <float.h>/* Change record: * ejs 011201 Added library implementation of x87 control functions. */
